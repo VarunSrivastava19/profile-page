@@ -1,0 +1,6 @@
+{  
+    "driver": "mysql",  
+    "user": "root",  
+    "database": "foodapp",  
+    "password": "cybage@123"   
+}
